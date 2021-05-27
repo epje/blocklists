@@ -2,15 +2,6 @@
 # ByteDance / TikTok domains blocklist
 # Last Updated @ 2021-05-27
 # ----------------------------------------
-0.0.0.0 tiktok.com
-0.0.0.0 tiktokcdn-in.com
-0.0.0.0 tiktokcdn.com
-0.0.0.0 tiktokcdn.com.c.bytetcdn.com
-0.0.0.0 tiktokcdn.com.c.worldfcdn.com
-0.0.0.0 tiktokcdn.com.wsdvs.com
-0.0.0.0 tiktokcdn.liveplay.myqcloud.com
-0.0.0.0 tiktokv.com
-0.0.0.0 ttoversea.net
 0.0.0.0 abtest-va-tiktok.byteoversea.com
 0.0.0.0 bytecdn.cn
 0.0.0.0 byted.org
@@ -29,3 +20,13 @@
 0.0.0.0 p16-tiktok-va.ibyteimg.com
 0.0.0.0 p16-va-tiktok.ibyteimg.com
 0.0.0.0 sgsnssdk.com
+0.0.0.0 tiktok.com
+0.0.0.0 tiktokcdn-in.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokcdn.com.c.bytetcdn.com
+0.0.0.0 tiktokcdn.com.c.worldfcdn.com
+0.0.0.0 tiktokcdn.com.wsdvs.com
+0.0.0.0 tiktokcdn.liveplay.myqcloud.com
+0.0.0.0 tiktokv.com
+0.0.0.0 ttoversea.net
+0.0.0.0 www.tiktok.com
